@@ -1,3 +1,7 @@
+# Disclaimer!
+Fusion Engine is still VERY unstable and is not yet fully posted on GitHub. 
+It is likely that only fragments of code will be available until further notice.
+
 # Fusion Engine
 3D LWJGL Game Engine Based on Optimization and Customization.
 
