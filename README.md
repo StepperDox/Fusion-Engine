@@ -6,7 +6,7 @@ It is likely that only fragments of code will be available until further notice.
 3D LWJGL Game Engine Based on Optimization and Customization.
 
 Fusion Engine is currently developed and maintained by StepperDox, and
-was variantly based on ThinMatrix's YouTube tutorials. However it is now
+is partly based on ThinMatrix's YouTube tutorials. However it is now
 being developed and furthered by only one person. 
 
 # LOD System
