@@ -23,3 +23,4 @@ rendering for optimization.
 # World / Asset Editor
 A world/asset editor is currently being developed for easy customization
 of in-game worlds, assets, particles, characters, textures, models, etc.
+(Work in progress, more to come. However this is not a priority.)
